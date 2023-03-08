@@ -1,1 +1,1 @@
-software developers should create their own hardware
+software developers should create their own hardware update
